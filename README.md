@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cờ Caro AI Chặn Thông Minh</title>
+    <title>Cờ Caro</title>
     <style>
         body { text-align: center; font-family: Arial, sans-serif; }
         h1 { color: #ff4081; }
@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <h1>Chơi Cờ Caro Với AI Chặn Thông Minh 🤖</h1>
+    <h1>Chơi Cờ Caro Với AI</h1>
     <div class="scoreboard">
         <span>Người chơi (X): <strong id="playerScore">0</strong></span> |
         <span>AI (O): <strong id="aiScore">0</strong></span>
